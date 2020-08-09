@@ -75,7 +75,7 @@ html, body {
 
 body {
     background: #111111;
-    font-family: "lora-regular", serif;
+    font-family: "lora-regular", serif, "IBMPlexSansKR-Light";
     font-size: 1.7rem;
     font-style: normal;
     font-weight: normal;
@@ -425,7 +425,7 @@ table {
     border-width: 0;
     width: 100%;
     max-width: 100%;
-    font-family: "lora-regular", serif;
+    font-family: "lora-regular", serif, "IBMPlexSansKR-Light";
 }
 
 th, td {
@@ -2791,7 +2791,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .clients-testimonials .testimonials p {
-    font-family: "lora-regular", serif;
+    font-family: "lora-regular", serif, "IBMPlexSansKR-Light";
     font-size: 3rem;
     line-height: 1.8;
     color: #555555;
